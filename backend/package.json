@@ -1,1 +1,17 @@
+{
+  "name": "ticket-management-backend",
+  "version": "1.0.0",
+  "description": "Backend for Ticket Management System",
+  "main": "app.py",
+  "scripts": {
+    "start": "python app.py",
+    // Add more scripts as needed
+  },
+  "dependencies": {
+    // List of dependencies for your backend
+    // For example:
+    // "flask": "^2.0.1",
+    // Include other dependencies based on your project setup
+  }
+}
 
