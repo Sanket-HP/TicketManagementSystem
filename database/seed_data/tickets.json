@@ -1,0 +1,13 @@
+[
+    {
+        "user_id": 1,
+        "ticket_code": "TCKT001",
+        "ticket_details": "Details for Ticket 1"
+    },
+    {
+        "user_id": 2,
+        "ticket_code": "TCKT002",
+        "ticket_details": "Details for Ticket 2"
+    },
+    // Add more tickets as needed
+]
