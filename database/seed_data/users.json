@@ -1,1 +1,14 @@
+[
+    {
+        "username": "john_doe",
+        "email": "john@example.com",
+        "password_hash": "hashed_password_here"
+    },
+    {
+        "username": "jane_smith",
+        "email": "jane@example.com",
+        "password_hash": "another_hashed_password"
+    },
+    // Add more users as needed
+]
 
